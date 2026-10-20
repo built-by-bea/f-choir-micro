@@ -1,0 +1,1 @@
+export const PulsePuck = () => <div className="bg-fblue text-fwhite font-seaSummerCalm text-md sm:text-xl md:text-2xl lg:text-3xl rounded-3xl p-3 text-center">Tap for tickets</div>;
